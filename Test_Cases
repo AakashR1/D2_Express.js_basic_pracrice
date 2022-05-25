@@ -1,0 +1,5 @@
+use following url to test this demo
+1. http://localhost:3000/ (to get form which have get method 'data will come in backend in form of query')
+2. http://localhost:3000/postform (to get form which have get method 'data will come in backend in req.body')
+3. http://localhost:3000/fileupload (Upload single file)
+4. http://localhost:3000/multiFile (to opload more then one file Note:- i set limit of upto 3 so more then three file will give you multer error)
